@@ -82,8 +82,7 @@ flutter:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
   assets:
-    - \Users\yanni\OneDrive - sluz\Schule 5c\Maturaarbeit\demo_app\assets\images\Pfadi.png
-    - \Users\yanni\OneDrive - sluz\Schule 5c\Maturaarbeit\demo_app\assets\images\Pfadililie.png
+    - assets/images/Pfadililie.png
     - assets/images/Pfadi.png
     - assets/images/
 
